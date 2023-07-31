@@ -1,0 +1,2 @@
+XX000,Batman studies,288.0,1,N,UG
+XX001,Crash bandicoot studies,288.0,1,N,UG

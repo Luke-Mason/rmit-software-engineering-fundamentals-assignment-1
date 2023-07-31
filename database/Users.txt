@@ -1,0 +1,5 @@
+e111,lookspassword,Luke,Mason,00-00-0000,Mr,coordinator
+e222,kingrichardspassword,richard,kuoch,00-00-0000,Mr,facadmin
+s1234567,password,Jake,Williams,00-00-0000,Mr,student
+s3333333,pw,john,smith,00-00-0000,Mr,student
+e1,pw,a,b,00-00-0000,Dr,sysadmin
